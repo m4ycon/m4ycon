@@ -11,7 +11,5 @@ always a learner.
 <code><img height="30" src="https://github.com/github/explore/blob/e21e2f1827e05cd849cd9f44a81766052e77c108/topics/typescript/typescript.png?raw=true" /></code>
 <code><img height="30" src="https://github.com/github/explore/blob/e21e2f1827e05cd849cd9f44a81766052e77c108/topics/react/react.png?raw=true" /></code>
 <code><img height="30" src="https://github.com/github/explore/blob/e21e2f1827e05cd849cd9f44a81766052e77c108/topics/nodejs/nodejs.png?raw=true" /></code>
-<code><img height="30" src="https://github.com/github/explore/blob/e21e2f1827e05cd849cd9f44a81766052e77c108/topics/ruby/ruby.png?raw=true" /></code>
-<code><img height="30" src="https://github.com/github/explore/blob/e21e2f1827e05cd849cd9f44a81766052e77c108/topics/rails/rails.png?raw=true" /></code>
 <code><img height="30" src="https://github.com/github/explore/blob/e21e2f1827e05cd849cd9f44a81766052e77c108/topics/postgresql/postgresql.png?raw=true" /></code>
 <code><img height="30" src="https://github.com/github/explore/blob/e21e2f1827e05cd849cd9f44a81766052e77c108/topics/docker/docker.png" /></code>
